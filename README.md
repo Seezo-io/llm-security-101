@@ -24,7 +24,8 @@ Before we dive into the intricacies of LLM security, let's start with the basics
 It’s important to recognize the pace at which the [OWASP guidelines for LLM applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v05.pdf) were released. This is research done by over 370 members across various industries coming together in a collaborative effort to bring out the Top 10 LLM security categories. 
 I’ve simplified the Top 10s based on my understanding of the classifications, but I encourage you to go through the linked source for a more comprehensive picture.
 
-![0D2VnGC_KdQqzkX3OEskBdIl5YySVROSh9pJysRUNN3Q5dW0HUhHokdLInYVrgRnzIRszt6s1S3jtoYXCa4MDtagrmNfP5QH7pTZzUWtwWgKeypRtRkSgGcdgyJw](https://github.com/Seezo-io/llm-security-101/assets/10797008/6a06f3e4-cf18-4d91-84d3-d821a5e4f8da)
+![Screenshot 2023-10-03 at 11 29 40 PM](https://github.com/Seezo-io/llm-security-101/assets/10797008/7684fe73-eb7e-4b53-bdf5-7818f6f140ea)
+
 
 Some of the above Top 10 categories have been further broken down and expanded in the next section.
 
